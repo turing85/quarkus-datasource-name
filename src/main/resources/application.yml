@@ -1,0 +1,6 @@
+datasource:
+  name: foo
+quarkus:
+  datasource:
+    "foo":
+      db-kind: postgresql
